@@ -1,67 +1,81 @@
-<h1 align="center">
-  <b>Abhigyan Trips</b>
-</h1>
+<!---
+preccrep/preccrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-Hola! Soy Miguel, estoy estudiando un grado superior de 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">DAW</a>, 
-estoy aprendiendo mucho sobre java.
-
-<br>
-
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
-
-```python
-class AbhigyanTrips():
-    
-  def __init__(self):
-    self.name = "Miguel Jimenez Lopez";
-    self.username = "migueljl06";
-    self.location = "Mumbai, Priego";
-    self.twitter = "@migueljl06";
-    self.web = "";
-  
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = AbhigyanTrips()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
-  </a>
-</div>
+      ___         ___           ___           ___           ___           ___           ___           ___   
+     /  /\       /  /\         /  /\         /  /\         /  /\         /  /\         /  /\         /  /\  
+    /  /::\     /  /::\       /  /:/_       /  /:/        /  /:/        /  /::\       /  /:/_       /  /::\ 
+   /  /:/\:\   /  /:/\:\     /  /:/ /\     /  /:/        /  /:/        /  /:/\:\     /  /:/ /\     /  /:/\:\
+  /  /:/~/:/  /  /:/~/:/    /  /:/ /:/_   /  /:/  ___   /  /:/  ___   /  /:/~/:/    /  /:/ /:/_   /  /:/~/:/
+ /__/:/ /:/  /__/:/ /:/___ /__/:/ /:/ /\ /__/:/  /  /\ /__/:/  /  /\ /__/:/ /:/___ /__/:/ /:/ /\ /__/:/ /:/ 
+ \  \:\/:/   \  \:\/:::::/ \  \:\/:/ /:/ \  \:\ /  /:/ \  \:\ /  /:/ \  \:\/:::::/ \  \:\/:/ /:/ \  \:\/:/  
+  \  \::/     \  \::/~~~~   \  \::/ /:/   \  \:\  /:/   \  \:\  /:/   \  \::/~~~~   \  \::/ /:/   \  \::/   
+   \  \:\      \  \:\        \  \:\/:/     \  \:\/:/     \  \:\/:/     \  \:\        \  \:\/:/     \  \:\   
+    \  \:\      \  \:\        \  \::/       \  \::/       \  \::/       \  \:\        \  \::/       \  \:\  
+     \__\/       \__\/         \__\/         \__\/         \__\/         \__\/         \__\/         \__\/  
 
-<!--
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
-  </a>
-</div>
--->
 
-## My Statistics
+```
 
-<br/>
-<p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&show_icons=true&theme=radical)
+![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&theme=tokyonight)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+I'm+preccrep!;I'm+a+CS+student.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://twitter.com/preccrep"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/preccrep?color=a2c4c9&logoColor=ffe599&style=for-the-badge">
+  <a href="https://www.preccrep.com/"><img alt="PersonalBlog" src="https://img.shields.io/static/v1?label=personalblog&message=preccrep&color=f4cccc&style=for-the-badge">
+  <a href="https://www.cnblogs.com/preccrep"><img alt="CNBlog" src="https://img.shields.io/static/v1?label=cnblog&message=preccrep&color=b4a7d6&style=for-the-badge">
 </p>
-<br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+    I'm a student currently studying computer science.
 
-------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
+**I'm a Night 🦉** 
 
-Last Edited on: 24/12/2021
+```text
+🌞 Morning    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+🌆 Daytime    87 commits     ██████░░░░░░░░░░░░░░░░░░░   26.93% 
+🌃 Evening    42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+🌙 Night      137 commits    ██████████░░░░░░░░░░░░░░░   42.41%
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       42 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      52 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.1% 
+Wednesday    57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Thursday     80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.77% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.74% 
+Saturday     41 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.69% 
+Sunday       26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.05%
+```
+
+<!--START_SECTION:colourise-->
+
+<p align=center>
+<img src="https://img.shields.io/badge/-C++-80953D?style=for-the-badge&logo=c%2b%2b"/>
+<img src="https://img.shields.io/badge/-Java-235548?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/-Swift-B32D51?style=for-the-badge&logo=swift"/>
+<img src="https://img.shields.io/badge/-Python-92B9D8?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/-JavaScript-00FFFF?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/-HTML5-523D95?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
+<!--END_SECTION:colourise-->
+
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preccrep&theme=radical" /> </div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=preccrep" /> </div>
+
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=preccrep" /> </div>
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=preccrep&theme=xcode" /> </div>
+
+-----
+
+Credits: [preccrep](https://github.com/preccrep)
+
+Last Edited on: 15/06/2022
