@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=preccrep&show_icons=true&theme=radical)
 ![preccrep GitHub stats](https://github-readme-stats.vercel.app/api?username=preccrep&show_icons=true&theme=tokyonight)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hey+Soy+miguel!;Soy+un+estudiante+de+java.;I+love+coding.;A+big+fan+of+anime...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monaco&size=30&duration=7000&background=E4E4E400&lines=Hola+soy+miguel!;soy+un+estudiante+de+java.;Me+encanta+el+coding.)](https://git.io/typing-svg)
 
     Soy un estudiante de Java.
 
@@ -67,9 +67,3 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=preccrep" /> </div>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=preccrep&theme=xcode" /> </div>
-
------
-
-Credits: [preccrep](https://github.com/preccrep)
-
-Last Edited on: 15/06/2022
