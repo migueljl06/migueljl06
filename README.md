@@ -50,8 +50,6 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 <p align=center>
 <img src="https://img.shields.io/badge/-C++-80953D?style=for-the-badge&logo=c%2b%2b"/>
 <img src="https://img.shields.io/badge/-Java-235548?style=for-the-badge&logo=java"/>
-<img src="https://img.shields.io/badge/-Swift-B32D51?style=for-the-badge&logo=swift"/>
-<img src="https://img.shields.io/badge/-Python-92B9D8?style=for-the-badge&logo=python" />
 <img src="https://img.shields.io/badge/-JavaScript-00FFFF?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/-HTML5-523D95?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
