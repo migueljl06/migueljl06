@@ -56,11 +56,3 @@ Sunday       26 commits     ██░░░░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/-HTML5-523D95?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/-CSS-E19F8A?style=for-the-badge&logo=css3"/>
 <!--END_SECTION:colourise-->
-
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=preccrep&theme=radical" /> </div>
-
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=preccrep" /> </div>
-
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=preccrep" /> </div>
-
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=preccrep&theme=xcode" /> </div>
